@@ -1,5 +1,3 @@
-# awesome-github-url-hacks
-
 # Awesome GitHub URL Hacks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of **GitHub URL hacks, mirrors, and frontends** – just replace `github.com` in the repo link with another domain to unlock hidden features.  
