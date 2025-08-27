@@ -54,7 +54,6 @@
 ---
 
 ## 🤝 Contributing
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.  
 Feel free to submit a pull request with new GitHub URL hacks.
 
 ---
